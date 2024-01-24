@@ -4,14 +4,6 @@
     display: none;
 }
 
-#container {
-    margin: 20px auto;
-    width: 428px;
-    border: solid 1px #333;
-    background: #efefef;
-    border-radius: 10px;
-}
-
 #mainContent {
         display: grid;
         grid-template-columns: repeat(4, 85px);
